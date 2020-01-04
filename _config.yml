@@ -131,7 +131,7 @@ backup:
   theme: landscape
   message: Back up my www.jlynet.cn blog
   repository:
-    github: git@github.com:ai930/blog_src.git,master
+    github: git@github.com:ai930/blog_src.git,backup
 
 live2d:
   enable: true
