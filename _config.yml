@@ -129,7 +129,7 @@ deploy:
 backup:
   type: git
   theme: landscape
-  message: Back up my www.jlynet.cn blog
+  message: Back up my www.jlynet.cn blog 11
   repository:
     github: git@github.com:ai930/blog.git,backup
     coding: git@gitee.com:jlynet/jlynet-hexoBlog.git,backup
