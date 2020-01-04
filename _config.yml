@@ -131,6 +131,7 @@ backup:
   theme: landscape
   message: Back up my www.jlynet.cn blog
   repository:
+    github: git@github.com:ai930/blog.git,backup
     coding: git@gitee.com:jlynet/jlynet-hexoBlog.git,backup
 
 live2d:
