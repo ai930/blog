@@ -129,10 +129,9 @@ deploy:
 backup:
   type: git
   theme: landscape
-  message: Back up my www.jlynet.cn blog 111
+  message: Back up my www.jlynet.cn blog
   repository:
-    # github: git@github.com:ai930/blog.git,backup
-    github: git@gitee.com:jlynet/jlynet-hexoBlog.git,backup
+    github: git@github.com:ai930/blog.git,backup
 
 live2d:
   enable: true
